@@ -1,1 +1,3 @@
 want to learn customizing Notepadd++ to show Tradingview Pine Scripts formatted in NPP with dark  mode
+Project started: 2022/01/27
+Team mates: Andreas Kleber (akle2303)
